@@ -1,4 +1,4 @@
-# 20220-ch02-w07-sergio-h
+
 # Week 7 - Challenge 2
 
 ## API REST Things I already know
